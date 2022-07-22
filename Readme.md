@@ -1,0 +1,1 @@
+Calculadora desenvolvida ulitizando Javascript, realizando operações básicas, com opções de retorno ao Menu de seleção de opções e avisos de erros.
